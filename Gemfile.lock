@@ -45,8 +45,8 @@ GIT
 
 GIT
   remote: https://github.com/dyndrop/vcap-staging.git
-  revision: 95e9e9855457cf8bf16e15f9c24175fcfd9d4966
-  ref: 95e9e985
+  revision: 8bdeca3302863f3dff83172f1d81e457ee7def20
+  ref: 8bdeca33
   specs:
     vcap_staging (0.1.64)
       nokogiri (>= 1.4.4)
